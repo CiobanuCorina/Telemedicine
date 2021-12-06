@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Telemedicine</string>
+    <string name="Telemedicine">Telemedicine</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Lorem_ipsum">"Lorem ipsum dolor sit amet, conse ctetur adipiscing elit, t. Ut enim ad veni am, quis nostrud exercitation ullamco "</string>
+    <string name="Sign_up">Sign up</string>
+    <string name="Login">Login</string>
+    <string name="Urgent">URGENT</string>
+</resources>
